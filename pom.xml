@@ -48,7 +48,7 @@ limitations under the License.
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- parameters for deploy mfpf adapter -->
-        <mfpfUrl>http://localhost:9080/mfpadmin</mfpfUrl>
+        <mfpfUrl>http://mobilefoundation-f4-mn-server.mybluemix.net/mfpconsole</mfpfUrl>
         <mfpfUser>admin</mfpfUser>
         <mfpfPassword>admin</mfpfPassword>
         <mfpfRuntime>mfp</mfpfRuntime>
